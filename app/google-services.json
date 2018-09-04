@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487145893711",
+    "firebase_url": "https://damakesmas-55377.firebaseio.com",
+    "project_id": "damakesmas-55377",
+    "storage_bucket": "damakesmas-55377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487145893711:android:9ad2ab609465d710",
+        "android_client_info": {
+          "package_name": "com.djinggamedia.damakesmas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487145893711-roadlnl9rn8kk9g6hc0dptpmnkrvlh9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.djinggamedia.damakesmas",
+            "certificate_hash": "8185b6a3624f696b8958d69fa557a51de12aceb3"
+          }
+        },
+        {
+          "client_id": "487145893711-q5b4oui8mhn3rug82149te55d12o2ml9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTwYYjm4PrbCbJ3p753luLxg6elyKucho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487145893711-q5b4oui8mhn3rug82149te55d12o2ml9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/jadwal"
+            android:title="Perkesmas" />
+        <item
+            android:id="@+id/emergency"
+            android:title="Kegawat daruratan" />
+        <item
+            android:id="@+id/maps"
+            android:title="Peta" />
+       </group>
+
+
+
+</menu>
